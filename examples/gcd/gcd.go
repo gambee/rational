@@ -3,7 +3,7 @@ package main
 import (
     "flag"
     "fmt"
-    "rational/pkg/rational"
+    "github.com/gambee/rational"
 )
 
 var cnt int

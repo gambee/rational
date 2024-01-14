@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "rational/pkg/rational"
+    "github.com/gambee/rational"
 )
 
 func CheckLCM(ints ...int) {
